@@ -36,7 +36,8 @@
 			"description": "Skills for working with Git following the team's conventions.",
 			"skills": [
 				"git-commit",
-				"create-pull-request"
+				"create-pull-request",
+				"create-merge-request"
 			]
 		}
 	]
